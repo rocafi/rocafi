@@ -1,4 +1,3 @@
-![MasterHead](https://st5.depositphotos.com/24032384/73453/i/450/depositphotos_734531754-stock-photo-video-games-banner-cyber-game.jpg)
 <h1 align="center">Que tal 😎, Soy Roberto Figueroa</h1>
 <h3 align="center">Soy un entusiasta del desarrollo, buscando siempre como ser mejor en lo que hago, interesado en crear sistemas, webs y videojuegos.</h3>
 
